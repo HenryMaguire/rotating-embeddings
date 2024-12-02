@@ -1,0 +1,677 @@
+{"text": "Nairobi National Park", "label": "location"}
+{"text": "Stephen Hawking", "label": "person"}
+{"text": "Local Concert", "label": "event"}
+{"text": "Pen", "label": "object"}
+{"text": "Mila Kunis", "label": "person"}
+{"text": "Bicycle", "label": "object"}
+{"text": "Lisbon", "label": "location"}
+{"text": "Toucan", "label": "animal"}
+{"text": "Natalie Dormer", "label": "person"}
+{"text": "Popcorn Machine", "label": "object"}
+{"text": "Lanzarote", "label": "location"}
+{"text": "Justin Timberlake", "label": "person"}
+{"text": "Wildlife Conservation Day", "label": "event"}
+{"text": "Thanksgiving", "label": "event"}
+{"text": "Aspen Mountain", "label": "location"}
+{"text": "Bicycle Helmet", "label": "object"}
+{"text": "Poetry Slam", "label": "event"}
+{"text": "Tower of Pisa", "label": "location"}
+{"text": "Cancun", "label": "location"}
+{"text": "Waffle Maker", "label": "object"}
+{"text": "New Year Parade", "label": "event"}
+{"text": "Drive-In Movie", "label": "event"}
+{"text": "Photography Exhibition", "label": "event"}
+{"text": "Koi Fish", "label": "animal"}
+{"text": "Blue Whale", "label": "animal"}
+{"text": "Winston Churchill", "label": "person"}
+{"text": "Desk", "label": "object"}
+{"text": "Street Festival", "label": "event"}
+{"text": "Food Festival", "label": "event"}
+{"text": "Compass", "label": "object"}
+{"text": "Community Service", "label": "event"}
+{"text": "Multicultural Festival", "label": "event"}
+{"text": "Flamingo", "label": "animal"}
+{"text": "Dance Recital", "label": "event"}
+{"text": "Hawaii", "label": "location"}
+{"text": "Sydney Opera House", "label": "location"}
+{"text": "Game Festival", "label": "event"}
+{"text": "Toaster", "label": "object"}
+{"text": "Open House", "label": "event"}
+{"text": "Art Class", "label": "event"}
+{"text": "Kiwi", "label": "animal"}
+{"text": "Tablet", "label": "object"}
+{"text": "Tortoise", "label": "animal"}
+{"text": "Book Club", "label": "event"}
+{"text": "Great Wall of China", "label": "location"}
+{"text": "Sapporo", "label": "location"}
+{"text": "Independence Day", "label": "event"}
+{"text": "Raccoon", "label": "animal"}
+{"text": "Emma Stone", "label": "person"}
+{"text": "Nordic Countries", "label": "location"}
+{"text": "Alaska", "label": "location"}
+{"text": "Hippo", "label": "animal"}
+{"text": "Video Game", "label": "object"}
+{"text": "Billy Joel", "label": "person"}
+{"text": "Prom", "label": "event"}
+{"text": "Technology Workshop", "label": "event"}
+{"text": "Christopher Nolan", "label": "person"}
+{"text": "Dolphin", "label": "animal"}
+{"text": "Wombat", "label": "animal"}
+{"text": "Halloween Parade", "label": "event"}
+{"text": "Tablet Stand", "label": "object"}
+{"text": "Capybara", "label": "animal"}
+{"text": "Big Ben", "label": "location"}
+{"text": "New Zealand", "label": "location"}
+{"text": "Longest River", "label": "location"}
+{"text": "Moose Jaw", "label": "location"}
+{"text": "Leonardo da Vinci", "label": "person"}
+{"text": "Lima", "label": "location"}
+{"text": "Stingray", "label": "animal"}
+{"text": "Home Gym Equipment", "label": "object"}
+{"text": "Desk Lamp", "label": "object"}
+{"text": "Gopher", "label": "animal"}
+{"text": "Elephant", "label": "animal"}
+{"text": "Shovel", "label": "object"}
+{"text": "Sketch Book", "label": "object"}
+{"text": "Chicago", "label": "location"}
+{"text": "Television Stand", "label": "object"}
+{"text": "Paddle Board", "label": "object"}
+{"text": "Safety Pin", "label": "object"}
+{"text": "Koala Bear", "label": "animal"}
+{"text": "Dwayne Johnson", "label": "person"}
+{"text": "Michelle Obama", "label": "person"}
+{"text": "Buenos Aires", "label": "location"}
+{"text": "Christmas", "label": "event"}
+{"text": "Vancouver Island", "label": "location"}
+{"text": "Local Fair", "label": "event"}
+{"text": "Cate Blanchett", "label": "person"}
+{"text": "Mongoose", "label": "animal"}
+{"text": "Halloween", "label": "event"}
+{"text": "Storage Box", "label": "object"}
+{"text": "Water Bottle", "label": "object"}
+{"text": "Paint Brush", "label": "object"}
+{"text": "Milan", "label": "location"}
+{"text": "Oslo", "label": "location"}
+{"text": "Lady Gaga", "label": "person"}
+{"text": "Wrench", "label": "object"}
+{"text": "Copenhagen", "label": "location"}
+{"text": "Sketch Pad", "label": "object"}
+{"text": "Spoon", "label": "object"}
+{"text": "Garden Party", "label": "event"}
+{"text": "Will Smith", "label": "person"}
+{"text": "Highchair", "label": "object"}
+{"text": "Baking Contest", "label": "event"}
+{"text": "Waterfall", "label": "location"}
+{"text": "Catalonia", "label": "location"}
+{"text": "World Cup", "label": "event"}
+{"text": "Phone Charger", "label": "object"}
+{"text": "Jazz Night", "label": "event"}
+{"text": "Hong Kong", "label": "location"}
+{"text": "Flashlight", "label": "object"}
+{"text": "Reykjavik", "label": "location"}
+{"text": "Tea Set", "label": "object"}
+{"text": "Roger Federer", "label": "person"}
+{"text": "Hugh Jackman", "label": "person"}
+{"text": "Nelson Mandela", "label": "person"}
+{"text": "Tech Conference", "label": "event"}
+{"text": "Stadium Seat", "label": "object"}
+{"text": "Peru", "label": "location"}
+{"text": "Johnny Depp", "label": "person"}
+{"text": "Tom Hardy", "label": "person"}
+{"text": "San Francisco", "label": "location"}
+{"text": "Niagara River", "label": "location"}
+{"text": "Vancouver", "label": "location"}
+{"text": "Anne Frank", "label": "person"}
+{"text": "Literary Festival", "label": "event"}
+{"text": "Smartphone Case", "label": "object"}
+{"text": "Beach Concert", "label": "event"}
+{"text": "Timoth\u00e9e Chalamet", "label": "person"}
+{"text": "Golden Gate Bridge", "label": "location"}
+{"text": "Food Drive", "label": "event"}
+{"text": "Street Art Festival", "label": "event"}
+{"text": "Keira Knightley", "label": "person"}
+{"text": "Smartphone", "label": "object"}
+{"text": "Milan Cathedral", "label": "location"}
+{"text": "Surfboard", "label": "object"}
+{"text": "Sydney Harbour", "label": "location"}
+{"text": "Nice", "label": "location"}
+{"text": "Sydney", "label": "location"}
+{"text": "Stone", "label": "object"}
+{"text": "Peacock", "label": "animal"}
+{"text": "Science Exhibition", "label": "event"}
+{"text": "Summer Solstice Festival", "label": "event"}
+{"text": "Barbra Streisand", "label": "person"}
+{"text": "Jennifer Lopez", "label": "person"}
+{"text": "Emma Watson", "label": "person"}
+{"text": "Henry Cavill", "label": "person"}
+{"text": "Tom Hiddleston", "label": "person"}
+{"text": "Air Conditioner", "label": "object"}
+{"text": "Smart Speaker", "label": "object"}
+{"text": "Thanksgiving Dinner", "label": "event"}
+{"text": "Cairo", "label": "location"}
+{"text": "Stand-Up Comedy Night", "label": "event"}
+{"text": "Mumbai", "label": "location"}
+{"text": "Book Signing", "label": "event"}
+{"text": "Beach Festival", "label": "event"}
+{"text": "Cannon", "label": "object"}
+{"text": "Benedict Cumberbatch", "label": "person"}
+{"text": "Camping Trip", "label": "event"}
+{"text": "Watch", "label": "object"}
+{"text": "Marie Curie", "label": "person"}
+{"text": "Sandwich Maker", "label": "object"}
+{"text": "Tent", "label": "object"}
+{"text": "Bill Gates", "label": "person"}
+{"text": "Cooking Workshop", "label": "event"}
+{"text": "Iceland", "label": "location"}
+{"text": "Moose", "label": "animal"}
+{"text": "Stockholm", "label": "location"}
+{"text": "Wall Clock", "label": "object"}
+{"text": "Bouquet", "label": "object"}
+{"text": "Kilimanjaro", "label": "location"}
+{"text": "Macaw", "label": "animal"}
+{"text": "Sequoia National Park", "label": "location"}
+{"text": "Opening Ceremony", "label": "event"}
+{"text": "Sparrow", "label": "animal"}
+{"text": "Antelope", "label": "animal"}
+{"text": "Julianne Moore", "label": "person"}
+{"text": "Wireless Speakers", "label": "object"}
+{"text": "Robert Pattinson", "label": "person"}
+{"text": "Aspen", "label": "location"}
+{"text": "Paris Opera House", "label": "location"}
+{"text": "Victoria Harbour", "label": "location"}
+{"text": "Cedar Fest", "label": "event"}
+{"text": "Ocelot", "label": "animal"}
+{"text": "Technology Expo", "label": "event"}
+{"text": "Python", "label": "animal"}
+{"text": "Fishing Rod", "label": "object"}
+{"text": "Youth Conference", "label": "event"}
+{"text": "Matthew Perry", "label": "person"}
+{"text": "Printer", "label": "object"}
+{"text": "Otter", "label": "animal"}
+{"text": "Anya Taylor-Joy", "label": "person"}
+{"text": "Charity Run", "label": "event"}
+{"text": "Microwave", "label": "object"}
+{"text": "Virtual Conference", "label": "event"}
+{"text": "Photo Album", "label": "object"}
+{"text": "Birthday Celebration", "label": "event"}
+{"text": "Singapore", "label": "location"}
+{"text": "Bangladesh", "label": "location"}
+{"text": "Jellyfish", "label": "animal"}
+{"text": "Pillow", "label": "object"}
+{"text": "Chocolate Festival", "label": "event"}
+{"text": "Gala Night", "label": "event"}
+{"text": "Panda", "label": "animal"}
+{"text": "Helmet", "label": "object"}
+{"text": "Mahatma Gandhi", "label": "person"}
+{"text": "Wireless Charger", "label": "object"}
+{"text": "Demi Lovato", "label": "person"}
+{"text": "Jigsaw Puzzle", "label": "object"}
+{"text": "Julia Roberts", "label": "person"}
+{"text": "Poetry Reading", "label": "event"}
+{"text": "Seagull", "label": "animal"}
+{"text": "Bluetooth Headset", "label": "object"}
+{"text": "Theater Production", "label": "event"}
+{"text": "Outdoor Festival", "label": "event"}
+{"text": "Lion", "label": "animal"}
+{"text": "Tuscany", "label": "location"}
+{"text": "Environmental Summit", "label": "event"}
+{"text": "Comedy Show", "label": "event"}
+{"text": "Technology Fair", "label": "event"}
+{"text": "Hyena", "label": "animal"}
+{"text": "Tom Hanks", "label": "person"}
+{"text": "Charity Gala", "label": "event"}
+{"text": "Earth Day", "label": "event"}
+{"text": "Harrison Ford", "label": "person"}
+{"text": "Glasses", "label": "object"}
+{"text": "Kevin Spacey", "label": "person"}
+{"text": "Morgan Freeman", "label": "person"}
+{"text": "Ryan Gosling", "label": "person"}
+{"text": "Olympics", "label": "event"}
+{"text": "New Year Celebration", "label": "event"}
+{"text": "Ethan Hawke", "label": "person"}
+{"text": "Leopard", "label": "animal"}
+{"text": "Halle Berry", "label": "person"}
+{"text": "Game Board", "label": "object"}
+{"text": "Glacier National Park", "label": "location"}
+{"text": "Samuel L. Jackson", "label": "person"}
+{"text": "Talent Show", "label": "event"}
+{"text": "Notebook", "label": "object"}
+{"text": "Rocky Mountains", "label": "location"}
+{"text": "Pony", "label": "animal"}
+{"text": "Charlize Theron", "label": "person"}
+{"text": "Istanbul", "label": "location"}
+{"text": "Wine Aerator", "label": "object"}
+{"text": "Electric Stove", "label": "object"}
+{"text": "Rosa Parks", "label": "person"}
+{"text": "Art Festival", "label": "event"}
+{"text": "Product Launch", "label": "event"}
+{"text": "Justin Bieber", "label": "person"}
+{"text": "Video Projector", "label": "object"}
+{"text": "Sledge", "label": "object"}
+{"text": "Nairobi", "label": "location"}
+{"text": "Music Concert", "label": "event"}
+{"text": "Bluetooth Speaker", "label": "object"}
+{"text": "Beyonc\u00e9", "label": "person"}
+{"text": "Seattle", "label": "location"}
+{"text": "Bermuda", "label": "location"}
+{"text": "Camping Equipment", "label": "object"}
+{"text": "Mount Kilimanjaro", "label": "location"}
+{"text": "New Year Countdown", "label": "event"}
+{"text": "Bison", "label": "animal"}
+{"text": "Tarantula", "label": "animal"}
+{"text": "Piano", "label": "object"}
+{"text": "Coyote", "label": "animal"}
+{"text": "Gavel", "label": "object"}
+{"text": "Coffee Maker", "label": "object"}
+{"text": "Concert", "label": "event"}
+{"text": "The Great Barrier Reef", "label": "location"}
+{"text": "Independence Day Parade", "label": "event"}
+{"text": "Art Pop-Up", "label": "event"}
+{"text": "The Louvre", "label": "location"}
+{"text": "Telescope", "label": "object"}
+{"text": "Jennifer Aniston", "label": "person"}
+{"text": "Jaguar", "label": "animal"}
+{"text": "Clipboard", "label": "object"}
+{"text": "Valentine's Day Celebration", "label": "event"}
+{"text": "Margaret Atwood", "label": "person"}
+{"text": "Pressure Washer", "label": "object"}
+{"text": "Tokyo Tower", "label": "location"}
+{"text": "Sloth", "label": "animal"}
+{"text": "Bethlehem", "label": "location"}
+{"text": "Chalk", "label": "object"}
+{"text": "Carnival", "label": "event"}
+{"text": "Battle of the Bands", "label": "event"}
+{"text": "Adele", "label": "person"}
+{"text": "Potluck Dinner", "label": "event"}
+{"text": "Table Lamp", "label": "object"}
+{"text": "Exercise Mat", "label": "object"}
+{"text": "Gorilla", "label": "animal"}
+{"text": "Steve Carell", "label": "person"}
+{"text": "Nail Clippers", "label": "object"}
+{"text": "Pressure Cooker", "label": "object"}
+{"text": "Gazelle", "label": "animal"}
+{"text": "Marathon", "label": "event"}
+{"text": "Sports Day", "label": "event"}
+{"text": "Cape Town", "label": "location"}
+{"text": "Meerkat", "label": "animal"}
+{"text": "Fishing Net", "label": "object"}
+{"text": "Loaf Pan", "label": "object"}
+{"text": "Eiffel Tower", "label": "location"}
+{"text": "Bali", "label": "location"}
+{"text": "Easter", "label": "event"}
+{"text": "Mouse Pad", "label": "object"}
+{"text": "Bruce Lee", "label": "person"}
+{"text": "Jessica Chastain", "label": "person"}
+{"text": "Alpaca", "label": "animal"}
+{"text": "Tarantula Hawk", "label": "animal"}
+{"text": "Camping Gear", "label": "object"}
+{"text": "Tennis Ball", "label": "object"}
+{"text": "Book Fair", "label": "event"}
+{"text": "Cooking Class", "label": "event"}
+{"text": "J.K. Rowling", "label": "person"}
+{"text": "Grand Canyon", "label": "location"}
+{"text": "Coffee Machine", "label": "object"}
+{"text": "Fridge", "label": "object"}
+{"text": "Hong Kong Disneyland", "label": "location"}
+{"text": "Sound System", "label": "object"}
+{"text": "David Beckham", "label": "person"}
+{"text": "Park Avenue", "label": "location"}
+{"text": "Lucy Liu", "label": "person"}
+{"text": "Jane Austen", "label": "person"}
+{"text": "Camera Tripod", "label": "object"}
+{"text": "Barracuda", "label": "animal"}
+{"text": "Beaver", "label": "animal"}
+{"text": "Armadillo", "label": "animal"}
+{"text": "Gal Gadot", "label": "person"}
+{"text": "Barbecue Grill", "label": "object"}
+{"text": "C\u00f3rdoba", "label": "location"}
+{"text": "Laptop Stand", "label": "object"}
+{"text": "Earth Day Celebration", "label": "event"}
+{"text": "Bicycle Pump", "label": "object"}
+{"text": "Big Sur", "label": "location"}
+{"text": "Tokyo", "label": "location"}
+{"text": "Ruler", "label": "object"}
+{"text": "Gaming Console", "label": "object"}
+{"text": "Mont Saint Michel", "label": "location"}
+{"text": "Koala", "label": "animal"}
+{"text": "Wine Glass", "label": "object"}
+{"text": "Electric Kettle", "label": "object"}
+{"text": "Manatee", "label": "animal"}
+{"text": "Bookcase", "label": "object"}
+{"text": "Rug", "label": "object"}
+{"text": "Indoor Concert", "label": "event"}
+{"text": "Chameleon", "label": "animal"}
+{"text": "Hummingbird", "label": "animal"}
+{"text": "Digital Media Player", "label": "object"}
+{"text": "Pelican", "label": "animal"}
+{"text": "Kourtney Kardashian", "label": "person"}
+{"text": "Comic-Con", "label": "event"}
+{"text": "Culture Festival", "label": "event"}
+{"text": "Awards Ceremony", "label": "event"}
+{"text": "Computer Monitor", "label": "object"}
+{"text": "Chris Pine", "label": "person"}
+{"text": "Ben Affleck", "label": "person"}
+{"text": "Keyboard", "label": "object"}
+{"text": "St. Patrick's Day", "label": "event"}
+{"text": "Coffee Table", "label": "object"}
+{"text": "Smartphone Charger", "label": "object"}
+{"text": "Chris Pratt", "label": "person"}
+{"text": "Falcon", "label": "animal"}
+{"text": "Great Lakes", "label": "location"}
+{"text": "Sound Bar", "label": "object"}
+{"text": "Music Festival", "label": "event"}
+{"text": "Vacuum Cleaner", "label": "object"}
+{"text": "Scarlett Johansson", "label": "person"}
+{"text": "Brussels", "label": "location"}
+{"text": "Vatican City", "label": "location"}
+{"text": "Basketball", "label": "object"}
+{"text": "Dubai", "label": "location"}
+{"text": "John David Washington", "label": "person"}
+{"text": "Block Party", "label": "event"}
+{"text": "Yoga Mat", "label": "object"}
+{"text": "Sunglasses", "label": "object"}
+{"text": "Earthquake Drill", "label": "event"}
+{"text": "Television Remote", "label": "object"}
+{"text": "Diwali", "label": "event"}
+{"text": "Puffin", "label": "animal"}
+{"text": "Art Show", "label": "event"}
+{"text": "Camera", "label": "object"}
+{"text": "Hammer", "label": "object"}
+{"text": "Trivia Night", "label": "event"}
+{"text": "Zebra", "label": "animal"}
+{"text": "Science Fair", "label": "event"}
+{"text": "Labor Day", "label": "event"}
+{"text": "Power Bank", "label": "object"}
+{"text": "Game Controller", "label": "object"}
+{"text": "Kitchen Knife", "label": "object"}
+{"text": "Michelle Pfeiffer", "label": "person"}
+{"text": "Drone", "label": "object"}
+{"text": "Super Bowl", "label": "event"}
+{"text": "Gecko", "label": "animal"}
+{"text": "Coffee Mug", "label": "object"}
+{"text": "Columbia River", "label": "location"}
+{"text": "Daniel Craig", "label": "person"}
+{"text": "Cheeta", "label": "animal"}
+{"text": "Ostrich", "label": "animal"}
+{"text": "Midsummer Festival", "label": "event"}
+{"text": "Frying Pan", "label": "object"}
+{"text": "Tyler Perry", "label": "person"}
+{"text": "Leonardo DiCaprio", "label": "person"}
+{"text": "Moscow", "label": "location"}
+{"text": "Thylacine", "label": "animal"}
+{"text": "Smart Assistant", "label": "object"}
+{"text": "Kittens", "label": "animal"}
+{"text": "Dog", "label": "animal"}
+{"text": "Smart Lightbulb", "label": "object"}
+{"text": "Sparrowhawk", "label": "animal"}
+{"text": "Everest Base Camp", "label": "location"}
+{"text": "New Year's Eve", "label": "event"}
+{"text": "Santorini", "label": "location"}
+{"text": "Monte Carlo", "label": "location"}
+{"text": "New Delhi", "label": "location"}
+{"text": "Cobra", "label": "animal"}
+{"text": "Festival of Colors", "label": "event"}
+{"text": "Smartwatch", "label": "object"}
+{"text": "Santiago", "label": "location"}
+{"text": "Tiger", "label": "animal"}
+{"text": "Whistle", "label": "object"}
+{"text": "Couch", "label": "object"}
+{"text": "Pottery Class", "label": "event"}
+{"text": "Thermos", "label": "object"}
+{"text": "Suez Canal", "label": "location"}
+{"text": "Fashion Show", "label": "event"}
+{"text": "Niagara Falls", "label": "location"}
+{"text": "Athens", "label": "location"}
+{"text": "New Year's Eve Party", "label": "event"}
+{"text": "Victoria Falls", "label": "location"}
+{"text": "Charity Auction", "label": "event"}
+{"text": "Smart Lock", "label": "object"}
+{"text": "Smart Watch", "label": "object"}
+{"text": "Falconry", "label": "event"}
+{"text": "Flower Festival", "label": "event"}
+{"text": "Brie Larson", "label": "person"}
+{"text": "Pocket Knife", "label": "object"}
+{"text": "Sheep", "label": "animal"}
+{"text": "Tom Cruise", "label": "person"}
+{"text": "Great Plains", "label": "location"}
+{"text": "Margot Robbie", "label": "person"}
+{"text": "Hedgehog", "label": "animal"}
+{"text": "Camera Lens", "label": "object"}
+{"text": "Llama", "label": "animal"}
+{"text": "Winter Wonderland", "label": "event"}
+{"text": "Refrigerator", "label": "object"}
+{"text": "Brad Pitt", "label": "person"}
+{"text": "Cheetah", "label": "animal"}
+{"text": "Folk Music Festival", "label": "event"}
+{"text": "Otterhound", "label": "animal"}
+{"text": "Golden Gate Park", "label": "location"}
+{"text": "Bangkok", "label": "location"}
+{"text": "Natalie Portman", "label": "person"}
+{"text": "Beijing", "label": "location"}
+{"text": "Earth Hour", "label": "event"}
+{"text": "Hokkaido", "label": "location"}
+{"text": "Manila", "label": "location"}
+{"text": "Robert Downey Jr.", "label": "person"}
+{"text": "Charity Bake Sale", "label": "event"}
+{"text": "Seychelles", "label": "location"}
+{"text": "Shenzhen", "label": "location"}
+{"text": "Los Angeles", "label": "location"}
+{"text": "Budapest", "label": "location"}
+{"text": "Ruth Bader Ginsburg", "label": "person"}
+{"text": "Zagreb", "label": "location"}
+{"text": "Wine Festival", "label": "event"}
+{"text": "Winter Olympics", "label": "event"}
+{"text": "Ariana Grande", "label": "person"}
+{"text": "Riviera Maya", "label": "location"}
+{"text": "Parakeet", "label": "animal"}
+{"text": "Bora Bora", "label": "location"}
+{"text": "Turtle", "label": "animal"}
+{"text": "Digital Camera", "label": "object"}
+{"text": "Sahara Desert", "label": "location"}
+{"text": "Adam Sandler", "label": "person"}
+{"text": "Cherry Blossom Festival", "label": "event"}
+{"text": "Baseball Glove", "label": "object"}
+{"text": "Chris Evans", "label": "person"}
+{"text": "Stonehenge", "label": "location"}
+{"text": "Paint Can", "label": "object"}
+{"text": "Ladder", "label": "object"}
+{"text": "Public Speaking Event", "label": "event"}
+{"text": "Tennis Racket", "label": "object"}
+{"text": "Steel Toed Boots", "label": "object"}
+{"text": "Walrus", "label": "animal"}
+{"text": "Rio de Janeiro", "label": "location"}
+{"text": "Crocodile", "label": "animal"}
+{"text": "Culture Fest", "label": "event"}
+{"text": "Comic Strip Festival", "label": "event"}
+{"text": "Comic Book Convention", "label": "event"}
+{"text": "Olympics Opening Ceremony", "label": "event"}
+{"text": "Art Gala", "label": "event"}
+{"text": "Seahorse", "label": "animal"}
+{"text": "Kangaroo", "label": "animal"}
+{"text": "Snapdragon", "label": "animal"}
+{"text": "Street Fair", "label": "event"}
+{"text": "Flash Drive", "label": "object"}
+{"text": "Guitar", "label": "object"}
+{"text": "Crab", "label": "animal"}
+{"text": "Trolley", "label": "object"}
+{"text": "Soccer Match", "label": "event"}
+{"text": "Television", "label": "object"}
+{"text": "Dance Festival", "label": "event"}
+{"text": "Matthew McConaughey", "label": "person"}
+{"text": "Billie Eilish", "label": "person"}
+{"text": "Rabbit", "label": "animal"}
+{"text": "Screwdriver", "label": "object"}
+{"text": "Rami Malek", "label": "person"}
+{"text": "Mount Fuji", "label": "location"}
+{"text": "Virtual Reality Expo", "label": "event"}
+{"text": "Horse", "label": "animal"}
+{"text": "Oprah Winfrey", "label": "person"}
+{"text": "Iguana", "label": "animal"}
+{"text": "Fork", "label": "object"}
+{"text": "Met Gala", "label": "event"}
+{"text": "Kite", "label": "object"}
+{"text": "Electric Guitar", "label": "object"}
+{"text": "Cup", "label": "object"}
+{"text": "Malala Yousafzai", "label": "person"}
+{"text": "Butterfly", "label": "animal"}
+{"text": "Dingo", "label": "animal"}
+{"text": "World Series", "label": "event"}
+{"text": "Albert Einstein", "label": "person"}
+{"text": "Festival of Lights", "label": "event"}
+{"text": "Motivational Conference", "label": "event"}
+{"text": "San Diego", "label": "location"}
+{"text": "Yellowstone National Park", "label": "location"}
+{"text": "Dove", "label": "animal"}
+{"text": "Saxophone", "label": "object"}
+{"text": "Cheetah Prints", "label": "object"}
+{"text": "Halloween Party", "label": "event"}
+{"text": "Nile River", "label": "location"}
+{"text": "Rihanna", "label": "person"}
+{"text": "Denzel Washington", "label": "person"}
+{"text": "Kitchen Scale", "label": "object"}
+{"text": "Chinchilla", "label": "animal"}
+{"text": "Anne Hathaway", "label": "person"}
+{"text": "Isaac Newton", "label": "person"}
+{"text": "Berlin", "label": "location"}
+{"text": "Frog", "label": "animal"}
+{"text": "Frida Kahlo", "label": "person"}
+{"text": "Cordoba", "label": "location"}
+{"text": "Ryan Reynolds", "label": "person"}
+{"text": "Cappadocia", "label": "location"}
+{"text": "Smartphone Stand", "label": "object"}
+{"text": "Literary Gala", "label": "event"}
+{"text": "Dance Competition", "label": "event"}
+{"text": "iPhone", "label": "object"}
+{"text": "Ballet Recital", "label": "event"}
+{"text": "Angelina Jolie", "label": "person"}
+{"text": "Ant", "label": "animal"}
+{"text": "Shark", "label": "animal"}
+{"text": "Meryl Streep", "label": "person"}
+{"text": "Jodie Foster", "label": "person"}
+{"text": "Singing Competition", "label": "event"}
+{"text": "Amazon Rainforest", "label": "location"}
+{"text": "Cultural Festival", "label": "event"}
+{"text": "School Play", "label": "event"}
+{"text": "Octopus", "label": "animal"}
+{"text": "Buffalo", "label": "animal"}
+{"text": "Yoga Retreat", "label": "event"}
+{"text": "Margaret Thatcher", "label": "person"}
+{"text": "Ball", "label": "object"}
+{"text": "Cultural Heritage Day", "label": "event"}
+{"text": "Galileo Galilei", "label": "person"}
+{"text": "Film Premiere", "label": "event"}
+{"text": "Kit Harington", "label": "person"}
+{"text": "Hamster", "label": "animal"}
+{"text": "Salmon", "label": "animal"}
+{"text": "Steve Jobs", "label": "person"}
+{"text": "Snowboard", "label": "object"}
+{"text": "Mark Zuckerberg", "label": "person"}
+{"text": "Octopus Garden", "label": "animal"}
+{"text": "Fox", "label": "animal"}
+{"text": "Madonna", "label": "person"}
+{"text": "Squid", "label": "animal"}
+{"text": "Elon Musk", "label": "person"}
+{"text": "Quebec City", "label": "location"}
+{"text": "Smart TV", "label": "object"}
+{"text": "Lake Tahoe", "label": "location"}
+{"text": "Film Screening", "label": "event"}
+{"text": "Elephant Seal", "label": "animal"}
+{"text": "Music Awards", "label": "event"}
+{"text": "Emma Roberts", "label": "person"}
+{"text": "Fashion Week", "label": "event"}
+{"text": "Cleopatra", "label": "person"}
+{"text": "Helsinki", "label": "location"}
+{"text": "Goldfish", "label": "animal"}
+{"text": "Parrot", "label": "animal"}
+{"text": "Matt Damon", "label": "person"}
+{"text": "Street Performance", "label": "event"}
+{"text": "Table", "label": "object"}
+{"text": "Viola Davis", "label": "person"}
+{"text": "Airplane", "label": "object"}
+{"text": "Elvis Presley", "label": "person"}
+{"text": "Talent Contest", "label": "event"}
+{"text": "Drew Barrymore", "label": "person"}
+{"text": "Nicole Kidman", "label": "person"}
+{"text": "Typewriter", "label": "object"}
+{"text": "Tarpon", "label": "animal"}
+{"text": "Chair", "label": "object"}
+{"text": "The Great Wall", "label": "location"}
+{"text": "Bike Race", "label": "event"}
+{"text": "Comedy Festival", "label": "event"}
+{"text": "Sloth Bear", "label": "animal"}
+{"text": "Machu Picchu", "label": "location"}
+{"text": "Memorial Day", "label": "event"}
+{"text": "Dubai Marina", "label": "location"}
+{"text": "Squirrel", "label": "animal"}
+{"text": "Open Mic Night", "label": "event"}
+{"text": "Venice", "label": "location"}
+{"text": "Drawing Pad", "label": "object"}
+{"text": "Silverback Gorilla", "label": "animal"}
+{"text": "Clearance Sale", "label": "event"}
+{"text": "Football Game", "label": "event"}
+{"text": "Colosseum", "label": "location"}
+{"text": "Graduation", "label": "event"}
+{"text": "Keanu Reeves", "label": "person"}
+{"text": "Grand Canyon National Park", "label": "location"}
+{"text": "Kyoto", "label": "location"}
+{"text": "Movie Night", "label": "event"}
+{"text": "Drone Controller", "label": "object"}
+{"text": "Jessica Alba", "label": "person"}
+{"text": "Peacock Spider", "label": "animal"}
+{"text": "Motivational Speaking Event", "label": "event"}
+{"text": "Barcelona", "label": "location"}
+{"text": "Jim Carrey", "label": "person"}
+{"text": "Tokyo Bay", "label": "location"}
+{"text": "Alligator", "label": "animal"}
+{"text": "Harvest Festival", "label": "event"}
+{"text": "Art Fair", "label": "event"}
+{"text": "Game Night", "label": "event"}
+{"text": "Daisy Ridley", "label": "person"}
+{"text": "Sydney Harbour Bridge", "label": "location"}
+{"text": "Chris Hemsworth", "label": "person"}
+{"text": "Game Console", "label": "object"}
+{"text": "Blender", "label": "object"}
+{"text": "Record Player", "label": "object"}
+{"text": "Newt", "label": "animal"}
+{"text": "Sofa", "label": "object"}
+{"text": "Penguin", "label": "animal"}
+{"text": "Great Barrier Reef", "label": "location"}
+{"text": "Los Angeles Airport", "label": "location"}
+{"text": "Sculpture Exhibition", "label": "event"}
+{"text": "Rhino", "label": "animal"}
+{"text": "Madrid", "label": "location"}
+{"text": "Bowl", "label": "object"}
+{"text": "Desk Organizer", "label": "object"}
+{"text": "Florence", "label": "location"}
+{"text": "Food Truck Festival", "label": "event"}
+{"text": "Microscope", "label": "object"}
+{"text": "Valentine's Day", "label": "event"}
+{"text": "Reading Marathon", "label": "event"}
+{"text": "Photo Scanner", "label": "object"}
+{"text": "Art Exhibition", "label": "event"}
+{"text": "Laptop", "label": "object"}
+{"text": "Statue of Liberty", "label": "location"}
+{"text": "Mount Everest", "label": "location"}
+{"text": "Film Festival", "label": "event"}
+{"text": "Salamander", "label": "animal"}
+{"text": "Giraffe", "label": "animal"}
+{"text": "Technology Summit", "label": "event"}
+{"text": "Carp", "label": "animal"}
+{"text": "Maui", "label": "location"}
+{"text": "Graduation Ceremony", "label": "event"}
+{"text": "Antarctica", "label": "location"}
+{"text": "Wolverine", "label": "animal"}
+{"text": "Weasel", "label": "animal"}
+{"text": "Key", "label": "object"}
+{"text": "Montreal", "label": "location"}
+{"text": "Channing Tatum", "label": "person"}
+{"text": "Lynx", "label": "animal"}
+{"text": "Valentine's Day Dance", "label": "event"}
+{"text": "Diwali Festival", "label": "event"}
+{"text": "Prague", "label": "location"}
+{"text": "Photography Contest", "label": "event"}
+{"text": "Food Tasting Event", "label": "event"}
+{"text": "Robin Williams", "label": "person"}
+{"text": "Electric Mixer", "label": "object"}
+{"text": "Backpack", "label": "object"}
+{"text": "Spring Festival", "label": "event"}
